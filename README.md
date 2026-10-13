@@ -18,4 +18,10 @@ Magical orb that's always 30 degrees is a fun one. A sock that's twice as big on
 Shopkeepers as a class, with a "stingy" multiplier of how wide their range of acceptable prices is, and then maybe a favourite ware or something?
 
 
+Aight, how do I go about actually structuring the bartering loop?
+Whilst both parties haven't fucked up too bad, which is defined later, run the loop.
+
+Roll "initiative", random int multiplied by the ratio between purse values to determine who gets to make the first offer
+
+
 '''
