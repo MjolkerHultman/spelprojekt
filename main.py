@@ -51,5 +51,5 @@ opponent = trinketGuy #placeholder
 
 #while playerBid < 
 
-for i in items: #Thing to find items of a given item ID
+for i in items: #Thing to find items of a given item ID, not working because I can't be bothered to make it
     if i['id'] == 1:
